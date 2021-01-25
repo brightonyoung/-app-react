@@ -1,0 +1,17 @@
+.complete {
+    font-style: italic;
+    color: #999;
+    text-decoration: line-through;
+  }
+  
+  .green {
+    background-color: greenyellow;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .yellow {
+    background-color: khaki;
+  }
